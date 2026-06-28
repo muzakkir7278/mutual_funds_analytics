@@ -1,0 +1,11 @@
+table_name,row_count,column_count
+clean_01_fund_master,40,15
+clean_02_nav_history,46000,3
+clean_03_aum_by_fund_house,90,5
+clean_04_monthly_sip_inflows,48,6
+clean_05_category_inflows,144,3
+clean_06_industry_folio_count,21,6
+clean_07_scheme_performance,40,19
+clean_08_investor_transactions,32778,13
+clean_09_portfolio_holdings,322,8
+clean_10_benchmark_indices,8050,3

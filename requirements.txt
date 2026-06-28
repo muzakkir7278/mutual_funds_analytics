@@ -1,9 +1,5 @@
-pandas>=2.2.0
-numpy>=1.26.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
-plotly>=5.20.0
-sqlalchemy>=2.0.0
-requests>=2.31.0
-scipy>=1.12.0
-jupyter>=1.0.0
+pandas==1.1.5
+numpy==1.19.5
+SQLAlchemy==1.4.46
+requests
+urllib3==1.26.18
