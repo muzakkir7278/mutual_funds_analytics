@@ -1,0 +1,2 @@
+-- Day 1 placeholder SQL schema for Mutual Fund Analytics
+-- Add CREATE TABLE statements after finalizing column types.
